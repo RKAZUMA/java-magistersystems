@@ -1,0 +1,10 @@
+"speed"|2300|12
+"bikesTest"|1200|1
+"speedo"|850|2
+"challenge"|2500|3
+"brikes"|1260|5
+"kPax"|4200|8
+"Max"|2310|9
+"starter"|800|11
+"test"|1000|11
+"firm"|1123|10

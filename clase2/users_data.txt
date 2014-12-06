@@ -1,0 +1,17 @@
+"rocky"|"Silverster Stallone"|56
+"master"|"Marlon Alfonso"|23
+"abc123"|"Un Nombre de Persona"|12
+"mi_usuario"|"Jorge Perez"|36
+"hacker123"|"Lisa Hernandez"|23
+"usuario27"|"Camilo P"|20
+"mi_user_max76"|"Alejandro U"|24
+"camilo23"|"J Camilo D"|32
+"jdpr"|"Juan Daniel Perez"|35
+"pw23r"|"Paulina Wendy"|23
+"punisher"|"Will Weathon"|83
+"alePe"|"Alejandro Perez"|34
+"NomApe"|"Jose Garcia"|52
+"convers"|"Jhon Smith"|18
+"per3654"|"Perla Suarez"|34
+"Linux_User"|"Jose Díaz"|32
+"test"|"especial_@%"|34
